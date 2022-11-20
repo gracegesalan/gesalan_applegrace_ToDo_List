@@ -43,6 +43,7 @@ article > h2 { color: gray;  padding: 4px 8px; }
 
 article:first-of-type { border: 4px solid gray; }
 
+
 #inprogress { border: 4px solid darkred; }
 #inprogress h2 { color: darkred; }
 
