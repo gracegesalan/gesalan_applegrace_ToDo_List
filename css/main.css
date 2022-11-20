@@ -86,8 +86,3 @@ ul li { padding: 6px 8px; text-transform: uppercase; }
 .done li:nth-child(odd) { background-color: rgba(0, 255, 0, 0.5)}
 
 
-input[type="checkbox"]:checked {
-    content: '\2713';
-    width: 25px;
-    height: 25px;
-}
