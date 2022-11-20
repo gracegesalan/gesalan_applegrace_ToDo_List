@@ -41,16 +41,41 @@ main { text-align: center; }
 
 article > h2 { color: gray;  padding: 4px 8px; }
 
-article:first-of-type { border: 4px solid gray; }
+
 
 
 #inprogress { border: 4px solid darkred; }
 #inprogress h2 { color: darkred; }
 
-#done { border: 4px solid green; }
-#done h2 { color: green; }
 
-ul { list-style-type: none; }
+
+article:first-of-type { 
+    border: 4px solid gray; 
+    text-align: center;
+}
+
+#inprogress { 
+    border: 4px solid darkred; 
+}
+#inprogress h2 { 
+    color: darkred; 
+    text-align: center;
+}
+
+#done { 
+    border: 4px solid green; 
+}
+#done h2 { 
+    color: green; 
+    text-align: center;
+}
+
+
+
+
+ul { 
+    list-style-type: none; 
+}
 
 ul li { padding: 6px 8px; text-transform: uppercase; }
 
