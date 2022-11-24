@@ -56,7 +56,7 @@ article:first-of-type {
 }
 
 #inprogress { 
-    border: 4px solid darkred; 
+    border: 4px solid darkgray; 
 }
 #inprogress h2 { 
     color: darkred; 
@@ -64,7 +64,7 @@ article:first-of-type {
 }
 
 #done { 
-    border: 4px solid green; 
+    border: 4px solid gray; 
 }
 #done h2 { 
     color: gray; 
