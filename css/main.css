@@ -46,7 +46,7 @@ article > h2 {
     color: gray;  padding: 4px 8px; 
     text-align: center}
 
-#inprogress { border: 4px solid darkred; }
+#inprogress { border: 4px solid darkgray; }
 #inprogress h2 { color: darkred; }
 
 
@@ -67,7 +67,7 @@ article:first-of-type {
     border: 4px solid green; 
 }
 #done h2 { 
-    color: green; 
+    color: gray; 
     text-align: center;
 }
 
