@@ -22,11 +22,11 @@ Checkboxes for To Do list
 
 ## History
 
-TODO: Write history
+Added To Do List
 ## Credits
 Apple Grace Gesalan
 ## License
-TODO: Write license
+MIT License
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
