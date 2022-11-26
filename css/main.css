@@ -71,10 +71,4 @@ input [type="checkbox"] {
 
 input[type="checkbox"] {margin-right: 8px;}
 
-input { 
-    position: absolute;
-    opacity: 0;
-    height: 0;
-    width: 0;
-}
 
