@@ -27,6 +27,6 @@ Added To Do List
 Apple Grace Gesalan
 ## License
 MIT License
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
